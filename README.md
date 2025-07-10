@@ -18,7 +18,7 @@ Built in Unreal Engine 5 using **Niagara, Material, and Blueprint logic**.
 
 ## 🎬 Demo Preview
 
-[![Watch Demo](https://matin.cc/assets/images/particle-morphing-system.gif)]([https://matin.cc/particle-morphing-system/](https://www.youtube.com/watch?v=Zyc0-7xfdIQ))
+[![Watch Demo]([https://matin.cc/assets/images/particle-morphing-system.gif](https://matin.cc/wp-content/uploads/2025/01/Morphing-cover-ezgif.com-video-to-gif-converter-1.gif))]([https://matin.cc/particle-morphing-system/](https://www.youtube.com/watch?v=Zyc0-7xfdIQ))
 
 
 ---
