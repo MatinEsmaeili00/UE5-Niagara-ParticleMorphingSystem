@@ -18,7 +18,7 @@ Built in Unreal Engine 5 using **Niagara, Material, and Blueprint logic**.
 
 ## 🎬 Demo Preview
 
-▶️ [Watch the full demo on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_LINK](https://www.youtube.com/watch?v=Zyc0-7xfdIQ))
+▶️ [Watch the full demo on YouTube](https://www.youtube.com/watch?v=Zyc0-7xfdIQ)
 
 
 ---
