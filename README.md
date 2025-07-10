@@ -19,20 +19,3 @@ Built in Unreal Engine 5 using **Niagara, Material, and Blueprint logic**.
 ## 🎬 Demo Preview
 
 ▶️ [Watch the full demo on YouTube](https://www.youtube.com/watch?v=Zyc0-7xfdIQ)
-
-
----
-
-## 📂 Folder Overview
-
-| Folder        | Description                             |
-|---------------|-----------------------------------------|
-| `NiagaraSystem/` | Core particle morphing Niagara setup   |
-| `Materials/`     | Custom shaders for rendering particles |
-| `Blueprints/`    | Example triggers and controls          |
-| `DemoMap/`       | Quick preview scene to test and tweak  |
-
----
-
-
-
